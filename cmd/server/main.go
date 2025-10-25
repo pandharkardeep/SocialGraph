@@ -5,7 +5,6 @@ import (
 	"net/http"
 	"os"
 	"time"
-
 	"github.com/pandharkardeep/social-graph/internal/embeds"
 	"github.com/pandharkardeep/social-graph/internal/graph"
 	"github.com/pandharkardeep/social-graph/internal/metrics"

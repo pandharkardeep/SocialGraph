@@ -6,10 +6,10 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/yourname/social-graph/internal/embeds"
-	"github.com/yourname/social-graph/internal/graph"
-	"github.com/yourname/social-graph/internal/metrics"
-	"github.com/yourname/social-graph/internal/pymk"
+	"github.com/pandharkardeep/social-graph/internal/embeds"
+	"github.com/pandharkardeep/social-graph/internal/graph"
+	"github.com/pandharkardeep/social-graph/internal/metrics"
+	"github.com/pandharkardeep/social-graph/internal/pymk"
 )
 
 type server struct {
